@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "F32LK+m1Z0Y=",
+  "success": false,
+  "projectFilePath": "F:\\less1\\p1\\p1\\p1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "System.CommandLine.NamingConventionBinder"
+    }
+  ]
+}

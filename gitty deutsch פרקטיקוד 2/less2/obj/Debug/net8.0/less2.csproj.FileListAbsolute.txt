@@ -1,0 +1,32 @@
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\bin\Debug\net8.0\less2.exe
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\bin\Debug\net8.0\less2.deps.json
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\bin\Debug\net8.0\less2.runtimeconfig.json
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\bin\Debug\net8.0\less2.dll
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\bin\Debug\net8.0\less2.pdb
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\less2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\less2.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\less2.AssemblyInfo.cs
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\less2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\less2.dll
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\refint\less2.dll
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\less2.pdb
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\less2.genruntimeconfig.cache
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\obj\Debug\net8.0\ref\less2.dll
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\bin\Debug\net8.0\ListHtmlTags\HtmlTags.json
+C:\Users\user1\Desktop\תכנות\תשפו בסד!!!!!\פרקטיקוד\less2\less2\bin\Debug\net8.0\ListHtmlTags\HtmlVoidTags.json
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\bin\Debug\net8.0\less2.exe
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\bin\Debug\net8.0\ListHtmlTags\HtmlTags.json
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\bin\Debug\net8.0\ListHtmlTags\HtmlVoidTags.json
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\bin\Debug\net8.0\less2.deps.json
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\bin\Debug\net8.0\less2.runtimeconfig.json
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\bin\Debug\net8.0\less2.dll
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\bin\Debug\net8.0\less2.pdb
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\less2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\less2.AssemblyInfoInputs.cache
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\less2.AssemblyInfo.cs
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\less2.csproj.CoreCompileInputs.cache
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\less2.dll
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\refint\less2.dll
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\less2.pdb
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\less2.genruntimeconfig.cache
+Y:\Groups\group_1\פסי הינמן\תשפו\ו חשוון\less2\less2\obj\Debug\net8.0\ref\less2.dll
